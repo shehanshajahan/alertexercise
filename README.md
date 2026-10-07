@@ -390,7 +390,7 @@ input("Press Enter to exit...")
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/4ffbf21a-35fa-402c-80bb-3fba17c3f5a7" />
 <img width="1912" height="735" alt="image" src="https://github.com/user-attachments/assets/83b8b228-48b2-442b-8715-68f0f338f6a5" />
 <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/5a9398c3-7581-4681-8bbf-0e6561b209cf" />
-<img width="1916" height="1002" alt="image" src="https://github.com/user-attachments/assets/bb0cf485-704b-4738-afcd-b2fbf5263fa3" />
+<img width="1917" height="831" alt="Screenshot 2026-10-07 143427" src="https://github.com/user-attachments/assets/acf8788b-194c-44c8-b48e-f73b7e61e373" />
 <img width="1915" height="982" alt="image" src="https://github.com/user-attachments/assets/7c9e2a19-e9be-4394-aeec-fa811954ea3e" />
 <img width="1413" height="953" alt="image" src="https://github.com/user-attachments/assets/49f79d6e-f903-4ba3-be98-5f9bb5221fb7" />
 <img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/12bb00bb-0e4d-496a-87a6-3af1b546415b" />
