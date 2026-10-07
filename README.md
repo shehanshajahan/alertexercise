@@ -1,6 +1,4 @@
 # alertexercise
-# Automation-Complete-Basics
-
 ### Problem Statement
 
 You can use a demo shopping website such as SauceDemo (Swag Labs) for login, product, cart, and checkout exercises. For alert, mouse, drag-and-drop, and dynamic-element exercises, a dedicated Selenium demo site is more suitable because SauceDemo does not provide all those interactions.
